@@ -1,7 +1,3 @@
-function myFunction() {
-    console.log("New File");
-}
-
-function myFunctionTwo() {
-    console.log("New Method");
+function newFunction() {
+    console.log("new function");
 }
